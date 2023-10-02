@@ -1,6 +1,8 @@
-
-src="https://github-readme-stats.vercel.app/api?username=Vinnixz&show_icons=true&theme=dracula&include_all_commit=true&count_private=true"
-src="https://github.com/anuraghazra/github-readme-stats"
+<div>
+  <a href="https:github.com/Vinnixz">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Vinnixz&show_icons=true&theme=dracula&include_all_commit=true&count_private=true"
+    src="https://github.com/anuraghazra/github-readme-stats"
+</div>
 - 👋 Hi, I’m @Vinnixz
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

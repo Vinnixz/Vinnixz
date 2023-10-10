@@ -6,8 +6,9 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
-- 👋 Oi, meu nome é Marcos e aqui vai ficar um pouco dos projetos e das experiências que eu estou passando no mundo da programação
+- 👋 Oi, meu nome é Marcos e aqui vai ficar um pouco dos meus projetos e das experiências que eu estou passando no mundo da programação
 
 <!---
 Vinnixz/Vinnixz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

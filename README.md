@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
-  ![snake gif](https://github.com/Vinnixz/Vinnixz/blob/output/github-contribution-grid-snake.gif)
 </div>
-- 👋 Oi, meu nome é Marcos e aqui vai ficar um pouco dos meus projetos e das experiências que eu estou passando no mundo da programação
+
+ ![snake gif](https://github.com/Vinnixz/Vinnixz/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 Vinnixz/Vinnixz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

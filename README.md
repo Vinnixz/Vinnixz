@@ -11,7 +11,7 @@
 </div>
 
  ![snake gif](https://github.com/Vinnixz/Vinnixz/blob/output/github-contribution-grid-snake.gif)
-
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Vinnixz&repo=ELLEN2121&theme=react)](https://github.com/Vinnixz/Vinnixz)
 <!---
 Vinnixz/Vinnixz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

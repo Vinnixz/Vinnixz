@@ -1,3 +1,4 @@
+![snake gif](https://github.com/Vinnixz/Vinnixz/blob/output/github-contribution-grid-snake.gif)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=4e97d1&center=true&vCenter=true&random=false&width=435&lines=Bem+vindo+ao+meu+perfil" alt="" /></a>
 <div>
 <a href="https:github.com/Vinnixz">

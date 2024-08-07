@@ -1,4 +1,3 @@
-![snake gif](https://github.com/Vinnixz/Vinnixz/blob/output/github-contribution-grid-snake-dark.svg)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=4e97d1&center=true&vCenter=true&random=false&width=435&lines=Bem+vindo+ao+meu+perfil" alt="" /></a>
 <div>
 <a href="https:github.com/Vinnixz">
@@ -11,8 +10,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     
 </div>
+![snake gif](https://github.com/Vinnixz/Vinnixz/blob/output/github-contribution-grid-snake-dark.svg)
 
-<!---
-Vinnixz/Vinnixz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
